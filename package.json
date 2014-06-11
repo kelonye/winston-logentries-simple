@@ -1,0 +1,21 @@
+{
+  "name": "winston-logentries-simple",
+  "version": "0.0.1",
+  "author": "Mitchel Kelonye <kelonyemitchel@gmail.com>",
+  "dependencies": {
+    "winston": "^0.7.2"
+  },
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kelonye/winston-logentries.git"
+  },
+ "keywords": [
+    "logentries",
+    "logging",
+    "log",
+    "transport",
+    "winston"
+  ],
+  "license": "MIT"
+}
