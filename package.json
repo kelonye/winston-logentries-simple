@@ -1,6 +1,6 @@
 {
   "name": "winston-logentries-simple",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Mitchel Kelonye <kelonyemitchel@gmail.com>",
   "dependencies": {
     "winston": "^0.7.2"
