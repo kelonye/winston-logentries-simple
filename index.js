@@ -55,7 +55,7 @@ Logentries.prototype.name = 'logentries';
 Logentries.prototype.log = function (level, msg, meta, done) {
 
   var self = this;
-  var sock = net.createConnection(10000, 'api.logentries.com');
+  var sock = net.createConnection(20000, 'api.logentries.com');
   sock.on('connect', onconnect);
   sock.on('error', onerror);
   sock.on('end', onend);
