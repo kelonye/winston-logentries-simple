@@ -9,7 +9,6 @@ var winston = require('winston');
 /**
   * Expose
   */
-
 module.exports = Logentries;
 
 
